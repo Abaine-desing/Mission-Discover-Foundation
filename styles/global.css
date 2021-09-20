@@ -8,8 +8,6 @@
 }
 
 
-
-
 html{
     --black: #0D114F;
     --white: #FAFAFA;
@@ -25,5 +23,35 @@ html{
     --grey-blue:#A1B2CD;
     --gray-medium:#D3D9E2;
     --gray-light:#E5EAF1;
+ 
+    font-size: 62,5%;
 
+}
+
+body{
+    height: 100vh;
+    background:var(--background);
+   
+}
+
+body, button, input, textarea{
+    font-size: clamp(14px,  1.6rem, 2vw);
+    
+}
+
+.content{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.sr-only{
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: rect (0,0,0,0);
+    white-space: nowrap;
+    border-width: 0;
 }
