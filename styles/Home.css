@@ -1,0 +1,34 @@
+.content{
+    display: grid;
+    grid-template-columns: 60% 40%; 
+    grid-template-rows:11.4rem 1fr;
+    grid-template-areas:
+    'header heder'
+    'left right'
+}
+ header{
+     grid-area:header ;
+ }
+ #bg{
+     grid-area:left;
+     background: url("/images/home-bg-img.svg") no-repeat top/contain;
+ }
+ main{
+     grid-area: right;
+     display: flex;
+     align-items: center;
+ }
+ main .container{
+     width: min(36.3rem 100%);
+ }
+ main h2{
+     font-family: 'poppins', sans-serif;
+     color: var(--black);
+     font-size:clamp (20px, 5vw, 2.8rem) ;
+     margin-bottom: 2.4rem;
+ }
+
+ input{
+     border: .2rem solid var(--gray-blue);
+     padding: 0 1.6rem ;
+ }
