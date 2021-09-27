@@ -79,8 +79,7 @@ input, button, .button{
     height: 21.2rem;
     background: var(--blue);
     clip-path: circle();
-    opacity: 0.1;
-
+    opacity: 0,9;
     position: fixed;
 }
 
