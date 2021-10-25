@@ -34,4 +34,4 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 # ⚠️ License
 
 This project has an MIT License.
-For more details see the file 🧾 [LICENSE](https://github.com/Abaine-desing/NLW-Heat/blob/master/LICENSE.TXT).
+For more details see the file 🧾 [LICENSE](https://github.com/Abaine-desing/Mission-Discover-Foundation/blob/master/License).
