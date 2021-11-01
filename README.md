@@ -29,3 +29,9 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 
 <center><img src="images/README_exemplo.png" alt="Print do site para Readme_Exemplo"/></center>
 
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+# ⚠️ License
+
+This project has an MIT License.
+For more details see the file 🧾 [LICENSE](https://github.com/Abaine-desing/Mission-Discover-Foundation/blob/master/License).
