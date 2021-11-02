@@ -23,8 +23,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 <br>
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
 ---
 
 <center><img src="images/README_exemplo.png" alt="Print do site para Readme_Exemplo"/></center>
