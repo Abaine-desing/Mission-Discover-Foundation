@@ -1,5 +1,5 @@
 
-
+## Projeto pausado devido a provas de fim de 3 Ano :)
 
 ## 📚 Tecnologias
 
